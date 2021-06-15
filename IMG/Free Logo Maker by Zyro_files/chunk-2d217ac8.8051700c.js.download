@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d217ac8"],{c874:function(w,o,n){"use strict";n.r(o);var a=n("e017"),d=n.n(a),e=n("21a1"),s=n.n(e),r=new d.a({id:"arrow-down",use:"arrow-down-usage",viewBox:"0 0 10 6",content:'<symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 6" id="arrow-down"><path d="M9 1L5 5 1 1" /></symbol>'});s.a.add(r);o["default"]=r}}]);
+//# sourceMappingURL=chunk-2d217ac8.8051700c.js.map

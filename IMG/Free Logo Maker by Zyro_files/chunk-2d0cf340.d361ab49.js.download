@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cf340"],{"635b":function(e,o,r){"use strict";r.r(o);var t=r("e017"),i=r.n(t),c=r("21a1"),n=r.n(c),w=new i.a({id:"color-picker",use:"color-picker-usage",viewBox:"0 0 20 20",content:'<symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" id="color-picker"><rect x=".5" y=".5" fill="#fff" width="19" height="19" rx="2.5" /><rect x="2.5" y="2.5" width="15" height="15" rx="2" stroke="transparent" /></symbol>'});n.a.add(w);o["default"]=w}}]);
+//# sourceMappingURL=chunk-2d0cf340.d361ab49.js.map
